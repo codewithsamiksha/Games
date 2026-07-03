@@ -25,7 +25,7 @@ while True:
         print("Computer Win.!!")
 
     elif(computer == "stone" and user == "paper"):
-        print("Computer Win.!!")
+        print("You Win.!!")
     
     play = input("Do You Want to Play Again (yes/no) ? = ").lower()
    
